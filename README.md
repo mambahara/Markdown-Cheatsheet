@@ -1,5 +1,6 @@
 Шпаргалка по Markdown
 ---------------------
+<a href="https://github.com/mambahara/mambahara.github.io/blob/master/README.md"></a>
 
 (перевод, [оригинал](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
 
